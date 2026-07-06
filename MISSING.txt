@@ -1,0 +1,12 @@
+The following files failed to download during site export. Please check them in the designer assets view (images) or dashboard (fonts).
+
+videos/Video-for-homepage-online-video-cuttercom-1-transcode.webm
+videos/features-bottom-transcode.mp4
+videos/features-bottom-transcode.webm
+videos/features-bottom.mp4
+videos/features-top.mp4
+videos/thredx-about-video-transcode.mp4
+videos/thredx-about-video-transcode.webm
+videos/thredx-about-video.mp4
+videos/thredx-video-header-1-transcode.mp4
+videos/thredx-video-header-1-transcode.webm
